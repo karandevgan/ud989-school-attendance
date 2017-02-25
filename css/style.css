@@ -3,6 +3,10 @@ body {
     margin: 2em;
 }
 
+.hide-element {
+    display: none !important;
+}
+
 th {
     background-color: #001f3f;
     color: #fff;
